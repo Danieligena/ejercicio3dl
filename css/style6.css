@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 219px;
+	position: relative;
+}
+
+.oferta {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}

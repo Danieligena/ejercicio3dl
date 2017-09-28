@@ -1,0 +1,39 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+}
+
+.titulo {
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: left;
+	height: 80px;
+}
+
+.menu {
+	width: 40%;
+	background-color: #d6d6d6;
+	float: left;
+	height: 200px;
+}
+
+.sub-titulo {
+	width: 60%;
+	float: left;
+	background-color: white;
+	height: 200px;
+}
+
+.footer {
+	text-align: center;
+	background-color: #a1a1a1;
+	color: white;
+}
